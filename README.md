@@ -1,5 +1,9 @@
 # Памятка
 
+## react-native
+
+- [Компоненты для react-native] (https://js.coach/react-native)
+
 ## Sublime
 
 ### Hotkeys
