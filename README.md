@@ -1,5 +1,9 @@
 # Памятка
 
+## git
+
+- force remember password `git config credential.helper store`
+
 ## react-native
 
 - [Компоненты для react-native] (https://js.coach/react-native)
