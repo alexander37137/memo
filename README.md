@@ -3,6 +3,10 @@
 ## apt 
 
 - check available package version `apt-cache policy <package>`
+ 
+### PPAs
+
+- vagrant http://vagrant-deb.linestarve.com/
 
 ## git
 
