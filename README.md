@@ -1,5 +1,9 @@
 # Памятка
 
+## apt 
+
+- check available package version `apt-cache policy <package>`
+
 ## git
 
 - force remember password `git config credential.helper store`
