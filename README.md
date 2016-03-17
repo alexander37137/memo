@@ -31,3 +31,8 @@
 ## Github
 
 - Markdown синтаксис [ссылка] (https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+## Light server
+
+- Fix crash after compiling http://stackoverflow.com/questions/36016905/angular2-quickstart-lite-server-crashes
+
